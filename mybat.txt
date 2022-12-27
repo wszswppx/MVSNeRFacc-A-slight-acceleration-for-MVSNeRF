@@ -1,0 +1,32 @@
+Start at: 20:52:47.57 
+dtu_scan2 finished! At 22:11:16.74 
+dtu_scan2: 5 epochs, spend time:  
+dtu_scan3 finished! At  0:17:13.32 
+dtu_scan3: 8 epochs, spend time:  
+dtu_scan4 finished! At  2:56:08.26 
+dtu_scan4: 10 epochs, spend time: 
+ 
+Start at: 14:48:58.98 
+dtu_scan2 finished! At 15:21:10.88 
+dtu_scan2: 5 epochs, spend time: 15:21:10.88-14:48:58.98 
+Start at: 16:38:41.46 
+dtu_scan4 finished! At 19:13:50.39 
+dtu_scan4: 10 epochs, spend time: 19:13:50.39- 
+Start at: 23:01:42.37 
+dtu_scan5 ft finished! At 23:02:03.66 
+dtu_scan5: 5 epochs, spend time: 23:02:03.66-23:01:42.37 
+Start at: 23:03:25.31 
+Start at: 23:07:13.10 
+dtu_scan5 ft finished! At 23:07:33.55 
+dtu_scan5: 5 epochs, spend time: 23:07:33.55-23:07:13.10 
+Start at: 23:08:28.96 
+dtu_scan5 ft finished! At 23:08:49.51 
+dtu_scan5: 5 epochs, spend time: 23:08:49.51-23:08:28.96 
+Start at: 23:10:01.04 
+dtu_scan5 ft finished! At 23:10:21.58 
+dtu_scan5: 5 epochs, spend time: 23:10:21.58-23:10:01.04 
+Start at:  0:19:23.11 
+Start at:  0:20:10.84 
+1 epoch finished at  0:20:32.13
+2 epoch finished at  0:20:52.56
+3 epoch finished at  0:21:12.70

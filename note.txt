@@ -1,0 +1,13 @@
+python train_mvs_nerf_finetuning_pl.py  `
+    --dataset_name dtu_ft --datadir D:/project/datasets/mvs_training/dtu/scan1 `
+    --expname scan1-ft  --with_rgb_loss  --batch_size 1024  `
+    --num_epochs 6 --imgScale_test 1.0   --pad 24 `
+    --ckpt ./ckpts/mvsnerf-v0.tar --N_vis 1
+    
+
+python train_mvs_nerf_pl.py `
+   --expname temp_training_result `
+   --num_epochs 6 `
+   --use_viewdirs `
+   --dataset_name dtu `
+   --datadir D:/project/datasets/mvs_training/dtu_partial
